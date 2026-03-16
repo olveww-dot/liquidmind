@@ -9,7 +9,7 @@
 
 基于 MIT 的 **Liquid Time-Constant (LTC)** 和 **Closed-form Continuous-time (CfC)** 网络实现。
 
-[English](README_EN.md) | 简体中文
+<!-- [English](README_EN.md) | -->简体中文
 
 ## 核心概念
 
