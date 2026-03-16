@@ -8,8 +8,8 @@ LiquidMind - 液态神经网络实现
 __version__ = "0.1.0"
 __author__ = "EC"
 
-from .ltc import LTC
-from .cfc import CfC
-from .liquid_layer import LiquidLayer
+from .ltc import LTC, LTCSequence
+from .cfc import CfC, CfCSequence
+from .liquid_layer import LiquidLayer, LiquidNetwork, LiquidForecaster
 
-__all__ = ['LTC', 'CfC', 'LiquidLayer']
+__all__ = ['LTC', 'LTCSequence', 'CfC', 'CfCSequence', 'LiquidLayer', 'LiquidNetwork', 'LiquidForecaster']
