@@ -1,8 +1,15 @@
 # LiquidMind 🧠💧
 
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange)](https://pytorch.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/olveww-dot/liquidmind?style=social)](https://github.com/olveww-dot/liquidmind)
+
 > 液态神经网络 - 动态适应的智能
 
 基于 MIT 的 **Liquid Time-Constant (LTC)** 和 **Closed-form Continuous-time (CfC)** 网络实现。
+
+[English](README_EN.md) | 简体中文
 
 ## 核心概念
 
